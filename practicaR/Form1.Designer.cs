@@ -278,6 +278,7 @@
             // cmb_TipoProd
             // 
             cmb_TipoProd.Cursor = Cursors.Hand;
+            cmb_TipoProd.DropDownStyle = ComboBoxStyle.DropDownList;
             cmb_TipoProd.FormattingEnabled = true;
             cmb_TipoProd.Location = new Point(256, 391);
             cmb_TipoProd.Name = "cmb_TipoProd";
